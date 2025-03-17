@@ -8,6 +8,7 @@ operadores logicos
 
 #Ejemplo 1 Operador not:
 y = not True
+
 print ("el valor o resultado de operar con not es", y) 
  
  # ejemplo: 2 operador and
@@ -51,5 +52,5 @@ y = (3 + 5 != 2 > 3) and 4 == 4 or not 3 < 2
 print("el resultado con parentesis es", y)
 
 #ejemplo 8 : todo junto
-y =4 ** 2 * 3 < 6 /(7 - 5) and 7 * 2 + 1 == 14 or not 3 + 5 > 2 
+y =(4 ** 2 * 3 < 6 /(7 - 5)) and 7 * 2 + 1 == 14 or not 3 + 5 > 2 
 print("el resultado de operar todo junto es", y)
