@@ -26,7 +26,7 @@ elif temperamento == "mala persona":
     print("No puedes acercarte aesa persona, porque te generaria estres")
 elif fisico == "feo":
     print("No puedes acercarte a esa persona, porque no te atrae fisicamente")
-elif salario < 100000:
+elif salario < 1000000:
     print("no puedes acercarte a esa persona porque no tienes suficiente dinero")
 else:
     print("Puedes acercarte a esa persona")
