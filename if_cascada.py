@@ -12,6 +12,7 @@ se evalua la siguiente y asi sucesivamente.
 # años
 
 edad = int(input("Ingresa tu edad:"))
+
 if edad > 18:
     print("puedes votar")
 elif edad ==18:
